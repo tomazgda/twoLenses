@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Two Lenses</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Two Lenses</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Feb 2021 16:29:10 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>http://example.org/posts/second-post/</link>
+      <pubDate>Fri, 05 Feb 2021 16:29:10 +0000</pubDate>
+      
+      <guid>http://example.org/posts/second-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Tempus iaculis urna id volutpat lacus laoreet non curabitur. Dictum varius duis at consectetur lorem donec. Eget egestas purus viverra accumsan in nisl nisi. Nec sagittis aliquam malesuada bibendum arcu. Purus viverra accumsan in nisl nisi.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 05 Feb 2021 09:34:42 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh ipsum consequat nisl vel pretium lectus quam. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Tempus iaculis urna id volutpat lacus laoreet non curabitur. Dictum varius duis at consectetur lorem donec. Eget egestas purus viverra accumsan in nisl nisi. Nec sagittis aliquam malesuada bibendum arcu. Purus viverra accumsan in nisl nisi.</description>
+    </item>
+    
+  </channel>
+</rss>
